@@ -8,4 +8,5 @@ This marketing agency webpage was made for clients and need to refactor for bett
 
 ![Updated Web Screenshot](screencapture-127-0-0-1-5500-index-html-2023-10-21-19_13_05.png)
 
-[Click here](https://salala1005.github.io/MJ-marketing-web/)
+[Click here to webpage](https://salala1005.github.io/MJ-marketing-web/)
+[link to MJ's repository](https://github.com/Salala1005/MJ-marketing-web)
